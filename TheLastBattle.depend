@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1511164085 source:c:\users\core-i5\desktop\final program 2\thelastbattle\main.cpp
+	"GameManager.h"
+
+1511164737 c:\users\core-i5\desktop\final program 2\thelastbattle\tropa.h
+	<iostream>
+	"Sources/ListaSE.h"
+
+1511158886 c:\users\core-i5\desktop\final program 2\thelastbattle\sources\listase.h
+	<iostream>
+	"Cursor.h"
+	"Dado.h"
+
+1507122202 c:\users\core-i5\desktop\final program 2\thelastbattle\sources\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1511074925 c:\users\core-i5\desktop\final program 2\thelastbattle\sources\nodos.h
+
+1505325908 source:c:\users\core-i5\desktop\final program 2\thelastbattle\sources\dado.cpp
+	"Dado.h"
+
+1505325908 c:\users\core-i5\desktop\final program 2\thelastbattle\sources\dado.h
+	<time.h>
+	<windows.h>
+
+1511165339 source:c:\users\core-i5\desktop\final program 2\thelastbattle\sources\timer.cpp
+	"Timer.h"
+	<iostream>
+
+1503442025 c:\users\core-i5\desktop\final program 2\thelastbattle\sources\timer.h
+	<windows.h>
+
+1511159474 c:\users\core-i5\desktop\final program 2\thelastbattle\unidades\guardian.h
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\final program 2\thelastbattle\unidades\ninja.h
+	"../Sources/Dado.h"
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\final program 2\thelastbattle\unidades\enano.h
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\final program 2\thelastbattle\unidades\samurai.h
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\final program 2\thelastbattle\unidades\vikingo.h
+	"../Tropa.h"
+
+1511158956 source:c:\users\core-i5\desktop\final program 2\thelastbattle\jugador.cpp
+	"Jugador.h"
+
+1511153695 c:\users\core-i5\desktop\final program 2\thelastbattle\jugador.h
+	"Sources/ListaSE.h"
+	"Sources/Cola.h"
+	"Unidades/Arquero.h"
+	"Unidades/Ballestero.h"
+	"Unidades/Contendiente.h"
+	"Unidades/Enano.h"
+	"Unidades/Guardian.h"
+	"Unidades/Ninja.h"
+	"Unidades/Samurai.h"
+	"Unidades/Vikingo.h"
+
+1508263382 c:\users\core-i5\desktop\final program 2\thelastbattle\sources\cola.h
+	"Cursor.h"
+
+1511159748 source:c:\users\core-i5\desktop\final program 2\thelastbattle\campo.cpp
+	"Campo.h"
+
+1511164085 c:\users\core-i5\desktop\final program 2\thelastbattle\casillero.h
+	"Unidades/Vacio.h"
+
+1511155911 c:\users\core-i5\desktop\final program 2\thelastbattle\campo.h
+	<iostream>
+	"Casillero.h"
+	"Jugador.h"
+
+1511161970 c:\users\core-i5\desktop\final program 2\thelastbattle\gamemanager.h
+	"Jugador.h"
+	"Campo.h"
+	"Sources/Timer.h"
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+
+1510896571 c:\users\core-i5\desktop\final program 2\thelastbattle\campo.cpp
+	"Campo.h"
+
+1511165339 source:c:\users\core-i5\desktop\final program 2\thelastbattle\gamemanager.cpp
+	"GameManager.h"
+
+1511165694 c:\users\core-i5\desktop\final program 2\thelastbattle\unidades\arquero.h
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\final program 2\thelastbattle\unidades\ballestero.h
+	"../Tropa.h"
+
+1511159458 c:\users\core-i5\desktop\final program 2\thelastbattle\unidades\contendiente.h
+	"../Tropa.h"
+
+1511090457 c:\users\core-i5\desktop\final program 2\thelastbattle\unidades\vacio.h
+	"../Tropa.h"
+
+1511159748 source:c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\campo.cpp
+	"Campo.h"
+
+1511155911 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\campo.h
+	<iostream>
+	"Casillero.h"
+	"Jugador.h"
+
+1511164085 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\casillero.h
+	"Unidades/Vacio.h"
+
+1511090457 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\unidades\vacio.h
+	"../Tropa.h"
+
+1511164737 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\tropa.h
+	<iostream>
+	"Sources/ListaSE.h"
+
+1511158886 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\sources\listase.h
+	<iostream>
+	"Cursor.h"
+	"Dado.h"
+
+1507122202 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\sources\cursor.h
+	<stdexcept>
+	"NodoS.h"
+
+1511074925 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\sources\nodos.h
+
+1505325908 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\sources\dado.h
+	<time.h>
+	<windows.h>
+
+1511153695 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\jugador.h
+	"Sources/ListaSE.h"
+	"Sources/Cola.h"
+	"Unidades/Arquero.h"
+	"Unidades/Ballestero.h"
+	"Unidades/Contendiente.h"
+	"Unidades/Enano.h"
+	"Unidades/Guardian.h"
+	"Unidades/Ninja.h"
+	"Unidades/Samurai.h"
+	"Unidades/Vikingo.h"
+
+1508263382 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\sources\cola.h
+	"Cursor.h"
+
+1511165694 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\unidades\arquero.h
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\unidades\ballestero.h
+	"../Tropa.h"
+
+1511159458 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\unidades\contendiente.h
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\unidades\enano.h
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\unidades\guardian.h
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\unidades\ninja.h
+	"../Sources/Dado.h"
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\unidades\samurai.h
+	"../Tropa.h"
+
+1511159474 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\unidades\vikingo.h
+	"../Tropa.h"
+
+1511158956 source:c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\jugador.cpp
+	"Jugador.h"
+
+1511164085 source:c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\main.cpp
+	"GameManager.h"
+
+1511161970 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\gamemanager.h
+	"Jugador.h"
+	"Campo.h"
+	"Sources/Timer.h"
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+
+1503442025 c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\sources\timer.h
+	<windows.h>
+
+1505325908 source:c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\sources\dado.cpp
+	"Dado.h"
+
+1511165339 source:c:\users\core-i5\desktop\facu\programacion 2\final program 2\thelastbattle\sources\timer.cpp
+	"Timer.h"
+	<iostream>
+

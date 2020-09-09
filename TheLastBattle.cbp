@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TheLastBattle" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TheLastBattle" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TheLastBattle" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Campo.cpp" />
+		<Unit filename="Campo.h" />
+		<Unit filename="Casillero.h" />
+		<Unit filename="GameManager.cpp" />
+		<Unit filename="GameManager.h" />
+		<Unit filename="Jugador.cpp" />
+		<Unit filename="Jugador.h" />
+		<Unit filename="Sources/Cola.h" />
+		<Unit filename="Sources/Cursor.h" />
+		<Unit filename="Sources/Dado.cpp" />
+		<Unit filename="Sources/Dado.h" />
+		<Unit filename="Sources/ListaSE.h" />
+		<Unit filename="Sources/NodoS.h" />
+		<Unit filename="Sources/Pila.h" />
+		<Unit filename="Sources/Timer.cpp" />
+		<Unit filename="Sources/Timer.h" />
+		<Unit filename="Tropa.h" />
+		<Unit filename="Unidades/Arquero.h" />
+		<Unit filename="Unidades/Ballestero.h" />
+		<Unit filename="Unidades/Contendiente.h" />
+		<Unit filename="Unidades/Enano.h" />
+		<Unit filename="Unidades/Guardian.h" />
+		<Unit filename="Unidades/Ninja.h" />
+		<Unit filename="Unidades/Samurai.h" />
+		<Unit filename="Unidades/Vacio.h" />
+		<Unit filename="Unidades/Vikingo.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
